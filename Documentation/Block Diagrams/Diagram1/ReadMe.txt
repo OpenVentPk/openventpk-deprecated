@@ -1,0 +1,1 @@
+Design2.jpg is taken from https://gitlab.com/open-source-ventilator/OpenLung/-/blob/master/concepts/ventilator-concept-6/controller/Schematic.jpg
