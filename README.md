@@ -1,2 +1,2 @@
 # OpenVentPK
-Opensource Ventilator Pakistan
+Latest documentation can be found by following this [link](https://github.com/OpenVentPk/OpenVentPK)
